@@ -1,0 +1,8 @@
+name: tmp
+dependencies:
+ -  jupyter
+ -  oct2py
+ -  matplotlib
+ -  theano
+ -  keras
+ -  tsne

@@ -1,6 +1,0 @@
-jupyter
-oct2py
-matplotlib
-theano
-keras
-tsne
